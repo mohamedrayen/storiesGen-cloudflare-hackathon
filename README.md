@@ -27,5 +27,11 @@ This Cloudflare Worker handles the generation of real-world stories in response 
 
 ### Installation:
 1. Clone this repository.
-2. Install dependencies using npm: `npm install`.
-3. Deploy the worker to your Cloudflare account using Wrangler: `wrangler publish`.
+2. Install dependencies using npm: 
+```shell
+npm install
+```
+3. Deploy the worker to your Cloudflare account using Wrangler:
+```shell
+wrangler publish
+```
