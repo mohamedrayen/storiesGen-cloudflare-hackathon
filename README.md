@@ -1,4 +1,4 @@
-### LearnWhy: Image Generation Cloudflare Worker
+#LearnWhy: Image Generation Cloudflare Worker
 
 **Cloudflare Hackathon:**
 This Cloudflare Worker is part of the LearnWhy project developed for the Cloudflare AI Challenge.
